@@ -1,7 +1,5 @@
 # Sample Blog
-For this project use git clone
-
-To clone 
+To run this project locally, use git clone: 
 ```zsh
 git clone https://github.com/darrenjamesso/sample-blog.git
 ```
@@ -27,3 +25,4 @@ npx json-server --watch data/database.json --port 8000
 ``` 
 
 Enjoy! Straw Hat Pirates Gang! 
+
